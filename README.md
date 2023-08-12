@@ -1,5 +1,5 @@
 # 💫 About Me:
-sound Meter
+Hi 👋, I'm Jay Gaudani.<br>A passionate Software Engineer.<br>🔭 I’m currently working on sound Meter flutter application.<br>💬 Ask me about flutter, Application Development.<br>📫 How to reach me jaygaudani50062@gmail.com.<br>👨‍💻 All of my projects are available at https://github.com/jay2607-cmd?tab=repositories
 
 
 ## 🌐 Socials:
@@ -13,7 +13,7 @@ sound Meter
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jay2607-cmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jay2607-cmd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=jay2607-cmd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
