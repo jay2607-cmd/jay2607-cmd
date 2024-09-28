@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jay Gaudani</h1>
-<h3 align="center">A passionate Software Engineer.</h3>
+<h3 align="center">A passionate Software Engineer and Data Enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay2607-cmd&label=Profile%20views&color=0e75b6&style=flat" alt="jay2607-cmd" /> </p>
 
